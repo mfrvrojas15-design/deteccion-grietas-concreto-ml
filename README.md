@@ -21,7 +21,7 @@ Las imágenes fueron procesadas mediante conversión a escala de grises, redimen
 
 Link de descarga del dataset:
 
-[Agregar aquí el link del dataset]
+https://www.kaggle.com/datasets/arunrk7/surface-crack-detection/data
 
 ## Modelos
 
