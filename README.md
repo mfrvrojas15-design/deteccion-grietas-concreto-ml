@@ -4,7 +4,7 @@
 
 ## Autores
 
-María Fernanda Rojas, Angie Boada
+María Fernanda Rojas, Angie Nicole  Boada
 
 ## Objetivo
 
