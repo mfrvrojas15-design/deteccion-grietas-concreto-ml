@@ -49,7 +49,7 @@ En la segunda fase, se exploraron enfoques de aprendizaje no supervisado y reduc
 
 - Notebook del proyecto: [Proyecto_APMaquina.ipynb](Proyecto_APMaquina.ipynb)
 - Presentación: [diapositivas.pdf](diapositivas.pdf)
-- Video de sustentación: [Agregar link de YouTube]
+- Video de sustentación: [[Agregar link de YouTube](https://www.youtube.com/watch?v=Xj-fkqQEVDM)]
 - Repositorio: [deteccion-grietas-concreto-ml](https://github.com/mfrvrojas15-design/deteccion-grietas-concreto-ml)
 
 ## Estructura del Repositorio
