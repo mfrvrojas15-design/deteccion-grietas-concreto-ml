@@ -1,4 +1,4 @@
-# 🏗️ Detección Automática de Grietas en Estructuras de Concreto
+# Detección Automática de Grietas en Estructuras de Concreto
 
 ![Banner del proyecto](banner.png)
 
