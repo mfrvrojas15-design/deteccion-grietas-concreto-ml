@@ -37,10 +37,10 @@ Luego se aplicaron técnicas de aprendizaje no supervisado y reducción de dimen
 
 ## Enlaces
 
-- Código del proyecto: [Agregar link al notebook o repositorio]
-- Diapositivas: [Agregar link al PDF de las diapositivas]
+- Código del proyecto: [Proyecto_APMaquina.ipynb](Proyecto_APMaquina.ipynb)
+- Diapositivas: [diapositivas.pdf](diapositivas.pdf)
 - Video de sustentación: [Agregar link de YouTube]
-- Repositorio: [Agregar link del repositorio]
+- Repositorio: [deteccion-grietas-concreto-ml](https://github.com/mfrvrojas15-design/deteccion-grietas-concreto-ml)
 
 ## Archivos del repositorio
 
